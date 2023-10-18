@@ -14,7 +14,7 @@ function hide_buttons(abstract) {
 
 **Banks and the Transmission of Interest Rate Risk** ([Job Market Paper]) *draft coming soon*
 
-<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_fiscal')">Abstract</button>
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_rate')">Abstract</button>
 <div id="abstract_rate" style="display:none;">
 I study the macroeconomic effects of interest rate risk in a model with financially constrained intermediaries. I develop a framework where shocks to interest rates transmit to intermediaries' net worth through movements in asset prices. The strength of this transmission depends on the degree of maturity mismatch in banks' balance sheets. Departing from the existing literature, I allow banks to choose optimally the duration of their assets and hence their exposure to changes in interest rates. As in the data, the model predicts that banks increase duration when interest rates are low as they expect higher asset prices going forward. I calibrate the model to match both time-series and cross-sectional patterns in banks’ duration profile. An application to the 2022 monetary tightening shows that the increase in the duration of bank assets prior to the tightening significantly magnified subsequent equity losses in the banking sector.
 </div>
