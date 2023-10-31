@@ -12,7 +12,7 @@ function hide_buttons(abstract) {
 }
 </script>
 
-**Banks and the Transmission of Interest Rate Risk** ([Job Market Paper](content/varraso_jmp.pdf))
+**Banks and the Macroeconomic Transmission of Interest Rate Risk** ([Job Market Paper](content/varraso_jmp.pdf))
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_rate')">Abstract</button>
 <div id="abstract_rate" style="display:none;">
