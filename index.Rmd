@@ -11,6 +11,25 @@ output:
   postcards::trestles
 ---
 
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    "Personal website of Paolo Varraso at New York University (NYU)"
+  ) %>% 
+  meta_name("github-repo" = "PaoloVarraso/paolovarraso.github.io") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Paolo Varraso",
+    url = "https://paolovarraso.github.io/",
+    image = "https://paolovarraso.github.io/images/index_portrait.jpg",
+    image_alt = "Paolo Varraso",
+    og_type = "website",
+    og_author = c("Paolo Varraso")
+  )
+```
+
 ##### I am a PhD candidate in Economics at New York University. 
 
 </br>
