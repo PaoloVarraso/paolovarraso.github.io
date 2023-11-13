@@ -3,7 +3,7 @@
     "path": "~/GitHub/paolovarraso.github.io/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "574568202",
+    "hash": "2367158119",
     "contents": "",
     "dirty": false,
     "created": 1699882330247.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "25,69",
-        "scrollLine": "9"
+        "cursorPosition": "32,67",
+        "scrollLine": "30"
     },
     "folds": "",
-    "lastKnownWriteTime": 1699882430,
+    "lastKnownWriteTime": 1699897690,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1699882430606,
+    "last_content_update": 1699897690342,
     "read_only": false,
     "read_only_alternatives": []
 }
