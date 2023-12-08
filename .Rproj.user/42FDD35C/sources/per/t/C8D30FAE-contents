@@ -1,0 +1,86 @@
+---
+title: "Paolo Varraso"
+image: "images/index_portrait.jpg"
+site: distill::distill_website
+links:
+  - label: 'Email'
+    url: "mailto:paolo.varraso@nyu.edu"
+  - label: 'LinkedIn'
+    url: "https://www.linkedin.com/in/paolo-varraso-03269994/"
+output:
+  postcards::trestles
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    "Personal website of Paolo Varraso at New York University (NYU)"
+  ) %>% 
+  meta_name("github-repo" = "PaoloVarraso/paolovarraso.github.io") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Paolo Varraso",
+    url = "https://paolovarraso.github.io/",
+    image = "https://paolovarraso.github.io/images/index_portrait.jpg",
+    image_alt = "Paolo Varraso",
+    og_type = "website",
+    og_author = c("Paolo Varraso")
+  )
+```
+
+##### I am a PhD candidate in Economics at New York University (NYU). 
+
+</br>
+
+In my [Job Market Paper](content/varraso_jmp.pdf), I study the role of financial intermediaries in the transmission of interest rate risk.
+
+I will be on the job market during the 2023-2024 academic year. Click [here](content/cv.pdf) for my CV.
+
+</br>
+
+```{css, echo = FALSE}
+.columnname {
+  font-size: 1.4rem; 
+  font-weight: 600;
+}
+.grad-item {
+  list-style: none; 
+  background-image: url(graduation-cap-solid.png); 
+  background-repeat: no-repeat;  
+  background-size: 1.2rem; 
+  padding-left: 2rem;
+}
+.grad-location {
+  font-size: 0.8rem;
+  color: grey;
+}
+```
+
+
+:::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
+
+::: {}
+<span class = "columnname"> Interests </span>
+
+* Macro-finance
+
+* Quantitative Macroeconomics
+
+* International Economics
+
+* Monetary Economics
+:::
+
+::: {}
+<span class = "columnname"> References </span>
+
+* [Diego Perez](https://www.perezdiego.org/)
+
+* [Mark Gertler](https://wp.nyu.edu/markgertler/)
+
+* [Pablo Ottonello](https://sites.google.com/site/ottonellopablo/home/)
+
+:::
+::::
