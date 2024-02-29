@@ -29,7 +29,7 @@ Are Collateral-Constraint Models Ready for Macroprudential Policy Design?, with 
 
 ### Working Papers
 
-**Impact of higher capital buffers on banks' lending and risk-taking in the short- and medium-term: evidence from the euro area experiments** with Aurea Ponte Marques and Giuseppe Cappelletti, R&R at *Journal of Financial Stability* ([Link to Paper](content/Impact_of_higher_capital_buffers.pdf))
+**Impact of higher capital buffers on banks' lending and risk-taking in the short- and medium-term: evidence from the euro area experiments** with Aurea Ponte Marques and Giuseppe Cappelletti, Conditionally accepted at the *Journal of Financial Stability* ([Link to Paper](content/Impact_of_higher_capital_buffers.pdf))
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_buffer')">Abstract</button>
 <div id="abstract_buffer" style="display:none;">
