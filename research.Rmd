@@ -27,7 +27,7 @@ makes the economy less vulnerable to sudden interest-rate raises.
 
 **Are Collateral-Constraint Models Ready for Macroprudential Policy Design?**, with [<span style="font-weight: normal">Pablo Ottonello</span>](https://sites.google.com/site/ottonellopablo/home/) and [<span style="font-weight: normal">Diego Perez</span>](https://www.perezdiego.org/), *Journal of International Economics* (2023): 139: 103650. ([Link to Submitted Paper](content/OPV_Collateral.pdf)) ([Link to Journal](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000824)) 
 
-**Impact of higher capital buffers on banks' lending and risk-taking in the short- and medium-term: evidence from the euro area experiments** with Aurea Ponte Marques and Giuseppe Cappelletti, accepted, *Journal of Financial Stability* ([Link to Submitted Paper](content/Impact_of_higher_capital_buffers.pdf))
+**Impact of higher capital buffers on banks' lending and risk-taking in the short- and medium-term: evidence from the euro area experiments.**, with Aurea Ponte Marques and Giuseppe Cappelletti, accepted, *Journal of Financial Stability* ([Link to Submitted Paper](content/Impact_of_higher_capital_buffers.pdf))
 
 ### Working Papers
 
