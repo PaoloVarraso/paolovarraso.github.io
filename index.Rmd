@@ -30,13 +30,17 @@ meta() %>%
   )
 ```
 
-##### I am a PhD candidate in Economics at New York University (NYU). 
+##### I am an Assistant Professor (*"Ricercatore in Tenure Track"*) in the Department of Economics and Finance at Tor Vergata University of Rome.  
 
 </br>
 
-In my [Job Market Paper](content/varraso_jmp.pdf), I study the role of financial intermediaries in the transmission of interest rate risk.
+I received my PhD in Economics from New York University in 2024. 
 
-I will be on the job market during the 2023-2024 academic year. Click [here](content/cv.pdf) for my CV.
+I am a macroeconomist with interests in the fields of macro-finance, international economics and monetary economics. 
+
+My research focuses on the role of financial markets and intermediaries in the transmission of macroeconomic shocks and policies.
+
+Click [here](content/cv.pdf) for my CV.
 
 </br>
 
@@ -57,30 +61,3 @@ I will be on the job market during the 2023-2024 academic year. Click [here](con
   color: grey;
 }
 ```
-
-
-:::: {style="display: grid; grid-template-columns: 40% 50%; grid-column-gap: 30px; line-height: 1.5rem;"}
-
-::: {}
-<span class = "columnname"> Interests </span>
-
-* Macro-finance
-
-* Quantitative Macroeconomics
-
-* International Economics
-
-* Monetary Economics
-:::
-
-::: {}
-<span class = "columnname"> References </span>
-
-* [Diego Perez](https://www.perezdiego.org/)
-
-* [Mark Gertler](https://wp.nyu.edu/markgertler/)
-
-* [Pablo Ottonello](https://sites.google.com/site/ottonellopablo/home/)
-
-:::
-::::

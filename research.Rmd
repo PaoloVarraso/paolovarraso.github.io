@@ -12,18 +12,6 @@ function hide_buttons(abstract) {
 }
 </script>
 
-### Job Market Paper
-
-**Banks and the Macroeconomic Transmission of Interest-Rate Risk** ([Job Market Paper](content/varraso_jmp.pdf))
-
-*Young Economist Prize 2024, Qatar Centre for Global Banking & Finance at King’s College London*
-
-<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_rate')">Abstract</button>
-<div id="abstract_rate" style="display:none;">
-I study the role of financial intermediaries in the transmission of interest-rate risk. I develop a quantitative model where banks can invest in assets of different durations and choose optimally their exposure to interest-rate fluctuations. I embed this portfolio problem in a heterogeneous-banks framework with financial frictions and endogenous default. The model predicts that in periods of loose monetary policy banks face weaker financial constraints. As a result, they become more tolerant of interest-rate risk and invest more extensively in long-duration assets. However, when the economy undergoes a sudden monetary tightening, this portfolio shift amplifies contractions in asset prices, credit, and output. I validate the model by showing that it can reproduce aggregate and cross-sectional patterns related to banks’ maturity mismatches, the level of the interest rate and leverage. A quantitative application to the 2022 monetary tightening shows that a lengthening of duration in periods of low interest rates gives rise to significant financial amplification. A liquidity requirement that restricts banks’ investment in long-term assets
-makes the economy less vulnerable to sudden interest-rate raises.
-</div>
-
 
 ### Publications
 
@@ -33,9 +21,22 @@ makes the economy less vulnerable to sudden interest-rate raises.
 
 ### Working Papers
 
-**Optimal Fiscal Policy in Collateral-Constraint Models** ([Link to Paper](content/Fiscal_Policy_Collateral.pdf))
+**Banks and the Macroeconomic Transmission of Interest-Rate Risk** ([Job Market Paper](content/varraso_jmp.pdf))
+
+*Young Economist Prize 2024, Qatar Centre for Global Banking & Finance at King’s College London*
+
+*Finalist, Young Economist Prize 2024, European Central Bank*
+
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_rate')">Abstract</button>
+<div id="abstract_rate" style="display:none;">
+I study the role of financial intermediaries in the transmission of interest-rate risk. I develop a quantitative model where banks can invest in assets of different durations and choose optimally their exposure to interest-rate fluctuations. I embed this portfolio problem in a heterogeneous-banks framework with financial frictions and endogenous default. The model predicts that in periods of loose monetary policy banks face weaker financial constraints. As a result, they become more tolerant of interest-rate risk and invest more extensively in long-duration assets. However, when the economy undergoes a sudden monetary tightening, this portfolio shift amplifies contractions in asset prices, credit, and output. I validate the model by showing that it can reproduce aggregate and cross-sectional patterns related to banks’ maturity mismatches, the level of the interest rate and leverage. A quantitative application to the 2022 monetary tightening shows that a lengthening of duration in periods of low interest rates gives rise to significant financial amplification. A liquidity requirement that restricts banks' investment in long-term assets makes the economy less vulnerable to sudden interest-rate raises.
+</div>
+
+</br>
+
+**Fiscal Policy Design in Collateral-Constraint Economies: the Role of Commitment** ([Link to Paper](content/Fiscal_Policy_Collateral.pdf))
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_fiscal')">Abstract</button>
 <div id="abstract_fiscal" style="display:none;">
-I study optimal government spending in a canonical, small-open-economy model where a collateral constraint gives rise to overborrowing. I show quantitatively that excess procyclicality - a pervasive feature of emerging markets - makes the economy more vulnerable to sudden stops. In normal times, pro-cyclical spending encourages borrowing and magnifies the inefficiency; during a sudden stop, it depresses collateral values and exacerbates deleveraging pressures on households. I characterize the optimal time-consistent policy and show that it would significantly reduce both the likelihood and severity of a sudden stop.
+I study the optimal design of fiscal policy, with and without commitment, in collateral-constraint models where the households' borrowing capacity is linked to the economy's real exchange rate. When the collateral constraint is binding, increasing public spending raises the real exchange rate and stabilizes private consumption. However, by making potential crises less costly, higher spending also makes borrowing more attractive. I show that the Ramsey-optimal policy entails a commitment to restrict fiscal stimulus during crisis periods, aimed at deterring excessive debt accumulation. In a quantitative application to Argentina, I find that significant fiscal expansions are not optimal due to the borrowing inefficiency, despite the potential for considerable ex-post gains from stabilizing the real exchange rate.
 </div> 
