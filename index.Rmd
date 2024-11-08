@@ -30,7 +30,7 @@ meta() %>%
   )
 ```
 
-##### I am an Assistant Professor (*"Ricercatore in Tenure Track"*) in the Department of Economics and Finance at Tor Vergata University of Rome.  
+##### I am an Assistant Professor *("Ricercatore in Tenure Track")* in the Department of Economics and Finance at Tor Vergata University of Rome.  
 
 </br>
 
