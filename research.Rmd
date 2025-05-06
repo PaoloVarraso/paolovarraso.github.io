@@ -34,7 +34,7 @@ I study the role of financial intermediaries in the transmission of interest-rat
 
 </br>
 
-**Fiscal Policy Design in Collateral-Constraint Economies: the Role of Commitment** ([Link to Paper](content/Fiscal_Policy_Collateral.pdf))
+**Fiscal Policy Design in Collateral-Constraint Economies: the Role of Commitment** ([Link to Paper](content/Fiscal_Policy_Collateral.pdf)) *R&R at Journal of International Economics*
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_fiscal')">Abstract</button>
 <div id="abstract_fiscal" style="display:none;">
