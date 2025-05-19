@@ -40,3 +40,8 @@ I study the role of financial intermediaries in the transmission of interest-rat
 <div id="abstract_fiscal" style="display:none;">
 I study the optimal design of fiscal policy, with and without commitment, in collateral-constraint models where the households' borrowing capacity is linked to the economy's real exchange rate. When the collateral constraint is binding, increasing public spending raises the real exchange rate and stabilizes private consumption. However, by making potential crises less costly, higher spending also makes borrowing more attractive. I show that the Ramsey-optimal policy entails a commitment to restrict fiscal stimulus during crisis periods, aimed at deterring excessive debt accumulation. In a quantitative application to Argentina, I find that significant fiscal expansions are not optimal due to the borrowing inefficiency, despite the potential for considerable ex-post gains from stabilizing the real exchange rate.
 </div> 
+
+### Work in Progress
+
+**Sovereign Debt, Domestic Banks and the Provision of Public Liquidity**, with [<span style="font-weight: normal">Diego Perez</span>](https://www.perezdiego.org/) 
+
