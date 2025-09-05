@@ -43,16 +43,18 @@ I study the optimal design of fiscal policy, with and without commitment, in col
 
 </br>
 
-**Sovereign Debt, Domestic Banks and the Provision of Public Liquidity**, with [<span style="font-weight: normal">Diego Perez</span>](https://www.perezdiego.org/)  ([Link to Paper](content/Perez_Varraso_2025.pdf)) *Reject & Resubmit at Review of Economic Studies*
+**Sovereign Debt, Domestic Banks and the Provision of Public Liquidity**, with [<span style="font-weight: normal">Diego Perez</span>](https://www.perezdiego.org/) *Reject & Resubmit at Review of Economic Studies*
 
-<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_sovdebt')">Abstract</button>
-<div id="abstract_sovdebt" style="display:none;">
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_sovereign')">Abstract</button>
+<div id="abstract_sovereign" style="display:none;">
 This paper develops a model to study how a default can affect the domestic economy and the government’s ability to provide liquidity. Banks that do not have good investment
 opportunities invest in public debt. After a default the government’s ability to credibly issue debt is undermined. A scarcer supply of public debt makes banks substitute
 away from government securities to investments in their less productive projects. A quantitative analysis of the model for Argentina can generate a deep and persistent
 fall in output post-default, which induces repayment incentives to sustain significant levels of external public debt. We provide empirical support for the model’s mechanism
 and use the model to analyze different policies that regulate banks’ holdings of public debt.
 </div> 
+
+</br>
 
 ### Work in Progress
 
