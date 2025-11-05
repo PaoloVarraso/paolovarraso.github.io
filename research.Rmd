@@ -23,7 +23,8 @@ function hide_buttons(abstract) {
 
 ### Working Papers
 
-**Banks and the Macroeconomic Transmission of Interest-Rate Risk** ([Job Market Paper](content/varraso_jmp.pdf))
+**Banks' Maturity Choices and the Transmission of Interest-Rate Risk** 
+([Link to Paper](content/BankIRRNov2025_Final.pdf)), *November 2025*
 
 *Young Economist Prize 2024, Qatar Centre for Global Banking & Finance at King’s College London*
 
@@ -31,12 +32,13 @@ function hide_buttons(abstract) {
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_rate')">Abstract</button>
 <div id="abstract_rate" style="display:none;">
-I study the role of financial intermediaries in the transmission of interest-rate risk. I develop a quantitative model where banks can invest in assets of different durations and choose optimally their exposure to interest-rate fluctuations. I embed this portfolio problem in a heterogeneous-banks framework with financial frictions and endogenous default. The model predicts that in periods of loose monetary policy banks face weaker financial constraints. As a result, they become more tolerant of interest-rate risk and invest more extensively in long-duration assets. However, when the economy undergoes a sudden monetary tightening, this portfolio shift amplifies contractions in asset prices, credit, and output. I validate the model by showing that it can reproduce aggregate and cross-sectional patterns related to banks’ maturity mismatches, the level of the interest rate and leverage. A quantitative application to the 2022 monetary tightening shows that a lengthening of duration in periods of low interest rates gives rise to significant financial amplification. A liquidity requirement that restricts banks' investment in long-term assets makes the economy less vulnerable to sudden interest-rate raises.
+This paper develops a quantitative heterogeneous-bank model to study how interest-rate risk transmits through the financial sector. Banks optimally choose their leverage and maturity structure in the presence of limited equity issuance, default risk, and partial deposit insurance. Long-maturity assets carry a premium because they expose banks to valuation losses when interest rates rise. To preserve their franchise value, banks with low net worth relative to risky assets take on less interest-rate risk, despite the presence of risk-shifting incentives associated with deposit insurance. Applying the model to the 2022–2023 monetary tightening, I show that a rapid increase in interest rates can generate large declines in asset prices and equity values even though banks have access to short-term assets that provide insurance against interest-rate risk. Under the lens of the model a substantial share of the losses in 2022 was predictable, whereas the losses in 2023 were largely unexpected. A shift toward long-term assets during a period of unusually low rates amplified the initial tightening, but a rebalancing toward shorter maturities dampened the transmission of later hikes.
 </div>
 
 </br>
 
-**Sovereign Debt, Domestic Banks and the Provision of Public Liquidity**, with [<span style="font-weight: normal">Diego Perez</span>](https://www.perezdiego.org/) ([Link to Paper](content/Perez_Varraso_2025.pdf)) *Reject & Resubmit at Review of Economic Studies*
+**Sovereign Debt, Domestic Banks and the Provision of Public Liquidity**, with [<span style="font-weight: normal">Diego Perez</span>](https://www.perezdiego.org/) 
+([Link to Paper](content/Perez_Varraso_2025.pdf)), *September 2025*, *Reject & Resubmit at Review of Economic Studies*
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_sovereign')">Abstract</button>
 <div id="abstract_sovereign" style="display:none;">
