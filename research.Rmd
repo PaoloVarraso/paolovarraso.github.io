@@ -61,9 +61,14 @@ We study positive and normative implications of interbank trade in a monetary ec
 
 </br>
 
-<!--
 ### Work in Progress
 
-**Market Efficiency and Welfare in the Interbank Market**, with Thomar van Hees
--->
+**Macroprudential Policy with Many Assets**, with Jean C. Flemming and Facundo Piguillem
+
+</br>
+
+### Discussions
+
+**The Fiscal Cost of Quantitative Easing** by  Adrien d’Avernas, Antoine Hubert de Fraisse, Liming Ning, and Quentin Vandeweyer, Oxford Saïd – VU SBE Macro-finance Conference, ([Link to Slides](content/OxfordAmst_macrofinance25_final.pdf)), *June 2025*
+
 
