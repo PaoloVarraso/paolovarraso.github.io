@@ -52,7 +52,7 @@ and use the model to analyze different policies that regulate banks’ holdings 
 </br>
 
 **Interbank Trade, Liquidity Reallocation and Welfare in a Monetary Economy**, with Thomar P. van Hees 
-([Link to Paper](content/interbank_2026.pdf)), *January 2026*
+([Link to Paper](content/interbank_2026.pdf)), *January 2026*, *R&R at Macroeconomic Dynamics*
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_interbank')">Abstract</button>
 <div id="abstract_interbank" style="display:none;">
