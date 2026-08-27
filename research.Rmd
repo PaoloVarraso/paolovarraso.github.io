@@ -38,7 +38,7 @@ This paper develops a quantitative heterogeneous-bank model to study how interes
 </br>
 
 **Sovereign Debt, Domestic Banks and the Provision of Public Liquidity**, with [<span style="font-weight: normal">Diego Perez</span>](https://www.perezdiego.org/) 
-([Link to Paper](content/Perez_Varraso_2025.pdf)), *September 2025*
+([Link to Paper](content/Perez_Varraso_2025.pdf)), *August 2026*
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_sovereign')">Abstract</button>
 <div id="abstract_sovereign" style="display:none;">
