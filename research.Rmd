@@ -65,6 +65,16 @@ We study positive and normative implications of interbank trade in a monetary ec
 
 **Regulating Portfolios: Macroprudential Taxation with Multiple Assets**, with [<span style="font-weight: normal">Jean C. Flemming</span>](https://www.federalreserve.gov/econres/jean-c-flemming.htm) and [<span style="font-weight: normal">Facundo Piguillem</span>](https://sites.google.com/view/facundopiguillem)
 
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_multasset')">Abstract</button>
+<div id="abstract_multasset" style="display:none;">
+We study the optimal macroprudential policy when agents can borrow with an arbitrary number of assets, as long as its number is equal to the number of potential shocks.  We develop a methodology that uses an isomorphism to Arrow-Debreu securities.  Our general framework encompasses many of the models considered in the literature, including the possibility of backward and forward looking collateral constraints. This framework allows to answer questions related to, not only if governments should affected international financial movements, but also which assets should be taxed or subsidized. In a quantitative application we calibrate the economy, as is standard in the literature, to Argentina. We show that neither long term debt nor FDI should be distorted, and that only short term debt should be taxed.
+</div> 
+
+</br>
+
+**Floating-Rate Loans and Bank Credit Risk during a Monetary Tightening: Theory and Evidence from Credit Registry Data**, with [<span style="font-weight: normal">Diego Bohorquez</span>](https://diegoboh.github.io/)
+
+</br>
 
 **Optimal Financial Policies under Solvency Constraints**, with [<span style="font-weight: normal">Gaetano Bloise</span>](https://sites.google.com/view/gaetano-bloise)
 
