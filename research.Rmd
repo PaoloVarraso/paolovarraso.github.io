@@ -74,8 +74,6 @@ We study the optimal macroprudential policy when agents can borrow with an arbit
 
 **Floating-Rate Loans and Bank Credit Risk during a Monetary Tightening: Theory and Evidence from Credit Registry Data**, with [<span style="font-weight: normal">Diego Bohorquez</span>](https://diegoboh.github.io/)
 
-</br>
-
 **Optimal Financial Policies under Solvency Constraints**, with [<span style="font-weight: normal">Gaetano Bloise</span>](https://sites.google.com/view/gaetano-bloise)
 
 </br>
