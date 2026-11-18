@@ -61,6 +61,16 @@ We study positive and normative implications of interbank trade in a monetary ec
 
 </br>
 
+**Optimal Time-Consistent Macroprudential Policy under Threat of Default**, with [<span style="font-weight: normal">Gaetano Bloise</span>](https://sites.google.com/view/gaetano-bloise) 
+([Link to Paper](content/VarrasoBloise_Solvency.pdf)), *November 2026*
+
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_defthreat')">Abstract</button>
+<div id="abstract_defthreat" style="display:none;">
+We study optimal time-consistent macroprudential policy in a small open economy with tradable and nontradable goods, where households face an incentive-compatibility constraint that prevents debt repudiation. The amount of sustainable debt depends on the fraction of income that creditors can seize in the event of default. We distinguish between two timings of debt repudiation: late repudiation, which occurs when repayment is due, and early repudiation, which occurs before repayment. Under late repudiation, the competitive equilibrium is constrained efficient. Under early repudiation, by contrast, borrowing inefficiencies arise that may lead to either overborrowing or underborrowing. We calibrate the model to Argentina and find that, in the absence of commitment, the planner optimally impose a positive tax on debt issuance. However, the tax is quantitatively small and implementing the optimal time-consistent policy reduces welfare relative to the unregulated equilibrium.
+</div> 
+
+</br>
+
 ### Work in Progress
 
 **Regulating Portfolios: Macroprudential Taxation with Multiple Assets**, with [<span style="font-weight: normal">Jean C. Flemming</span>](https://www.federalreserve.gov/econres/jean-c-flemming.htm) and [<span style="font-weight: normal">Facundo Piguillem</span>](https://sites.google.com/view/facundopiguillem)
@@ -73,8 +83,6 @@ We study the optimal macroprudential policy when agents can borrow with an arbit
 </br>
 
 **Floating-Rate Loans and Bank Credit Risk during a Monetary Tightening: Theory and Evidence from Credit Registry Data**, with [<span style="font-weight: normal">Diego Bohorquez</span>](https://diegoboh.github.io/)
-
-**Optimal Time-Consistent Macroprudential Policy under Threat of Default**, with [<span style="font-weight: normal">Gaetano Bloise</span>](https://sites.google.com/view/gaetano-bloise)
 
 </br>
 
